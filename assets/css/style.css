@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/starfield.jpg);
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    color: white;
+}
+
+.header {
+    background-image: url(../images/Star-Wars-logo.png);
+    height: 200px;
+    margin-bottom: 50px;
+}
+.container {
+    margin: 0 auto;
+    text-align: center;
+    border-style: double;
+    border-color: white;
+}
+
+.pictureRow {
+    border-top-style: double;
+    border-color: white;
+}
