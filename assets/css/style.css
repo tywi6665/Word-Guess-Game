@@ -22,3 +22,8 @@ body {
     border-top-style: double;
     border-color: white;
 }
+
+#currentWord {
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
